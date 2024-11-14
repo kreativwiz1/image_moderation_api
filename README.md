@@ -179,8 +179,8 @@ The API provides detailed error responses:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image-moderation-api.git
-cd image-moderation-api
+git clone https://github.com/kreativwiz1/image_moderation_api.git
+cd image_moderation_api
 ```
 
 2. Install dependencies:
